@@ -101,3 +101,5 @@ To run the examples provided in this repository, navigate to the specific folder
 This repository serves as an excellent starting point for exploring the various features of Grenache. Whether you're looking to implement decentralized service discovery or secure microservice communication with WebSockets and TLS, you'll find the examples here informative and easy to follow. Dive in and start building your decentralized microservices today!
 
 Feel free to experiment, contribute, and share your feedback.
+
+![alt text](image.png)
